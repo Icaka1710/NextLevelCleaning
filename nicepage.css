@@ -21041,6 +21041,7 @@ a.u-button-style.u-border-1 {
 .u-text.u-border-2,
 a.u-button-style.u-border-2 {
   border-width: 2px;
+  visibility:hidden;
 }
 .u-shape-svg.u-border-2 {
   stroke-width: 2px;
